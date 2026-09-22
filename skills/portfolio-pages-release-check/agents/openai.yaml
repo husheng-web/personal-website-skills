@@ -1,0 +1,3 @@
+interface:
+  display_name: "Portfolio Pages Release Check"
+  short_description: "Check static GitHub Pages release readiness"

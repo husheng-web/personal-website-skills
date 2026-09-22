@@ -1,0 +1,3 @@
+interface:
+  display_name: "Portfolio Visual Qa"
+  short_description: "Compare portfolio routes with visual references"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Portfolio Project Preview Reader"
+  short_description: "Build accessible image and document preview readers"
